@@ -1,0 +1,5 @@
+# ninja log v5
+0	345	7098807319291546	CMakeFiles/GLFWTest_2.dir/main.cpp.obj	a9576bf913d0fb0a
+5	1803	7098807333864560	CMakeFiles/glad.dir/Dependencies/GLFW/lib/glad.c.obj	50e01699bdd7ea49
+1804	1918	7098807335019733	libglad.a	48a8d93557b4f1e
+1919	2124	7098807337051227	GLFWTest_2.exe	e62d8163dcd9c090
